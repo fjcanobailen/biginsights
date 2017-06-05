@@ -1,0 +1,2 @@
+https://bigi01.localdomain:8443/gateway/default/BigInsightsWeb/index.html
+
