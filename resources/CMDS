@@ -1,0 +1,1 @@
+CREATE WRAPPER ODBC LIBRARY 'libdb2rcodbc.so' OPTIONS (MODULE '/usr/ibmpacks/bigsql/5.0.1.0/db2/federation/odbc/lib/libodbc.so');
